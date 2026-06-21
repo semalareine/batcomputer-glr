@@ -23,6 +23,15 @@ So we tested using the application on other devices (school mac and casper my ki
 
 <img src="batcomputers.jpg" width="480px" height="260px"  />
 
+<h1>Fri Jun 5</h1>
+
+So we pitched our progress the past week and we found out that we are closer than we thought. We worked through our concepts for the lore and settled on an idea. <br> 
+
+Here's a sneak peek <br>
+<img src="riddlersneak.png" width="400px" height="240px" />  
+
+<h3> Work in progress... </h3>
+
 <h3> Work in progress... </h3>
 
 - Villain Index
