@@ -30,23 +30,18 @@ So we pitched our progress the past week and we found out that we are closer tha
 Here's a sneak peek <br>
 <img src="riddlersneak.png" width="400px" height="240px" />  
 
-<h3> Work in progress... </h3>
+<h1> RELEASE </h1>
 
-<h3> Work in progress... </h3>
+After trial and error and screwing around with the dist we managed to finish it well within time!! :D  <br> All credits to Casper, Jeremy and Alex. We are AMAZING. 
 
-- Villain Index
-- Encounter Index
-- Map
-- Custom Ai (damn OpenAi)
-- Custom SVG Icons
-- Lore
-- Riddler side quest
-- Voice Control
+<h3> Future... </h3>
+
+- Villain index more written out. 
+- Voice control working on app version too
 - Clearance lore
 - Cleaning up JS
-- 3D Models for weapon index (current placeholders are horrible)
-- More I probably forgot to list as of rn (will update soon enough)
+- Proper 3D Models 
 
-<h2>TL;DR: BUGS WILL BE FOUND, THIS IS A DEMO</h2>
+<h2>TL;DR: BUGS WILL BE FOUND, THIS IS IN ALPHA PHASE</h2>
 
 <img src="https://png.pngtree.com/png-vector/20250620/ourmid/pngtree-hamster-isolated-on-a-transparent-background-png-image_16555349.png"/>
