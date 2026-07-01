@@ -40,8 +40,11 @@ After trial and error and screwing around with the dist we managed to finish it 
 - Voice control working on app version too
 - Clearance lore
 - Cleaning up JS
-- Proper 3D Models 
+- Proper 3D Models
+- Maybe implement react
 
 <h2>TL;DR: BUGS WILL BE FOUND, THIS IS IN ALPHA PHASE</h2>
+
+Also we decided to remove react completely. We only used it for some niche parts and figured since our use of it is so limited we might as well just remove it completely.
 
 <img src="https://png.pngtree.com/png-vector/20250620/ourmid/pngtree-hamster-isolated-on-a-transparent-background-png-image_16555349.png"/>
